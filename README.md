@@ -1,4 +1,4 @@
-# UI Component example for Magento 2
+# Simple UI Component example for Magento 2
 
 ## Magento DevChannel Overview
 This is a series of videos from [Magento DevChannel](https://www.youtube.com/maxpronko) where I best practices when writing the Magento 2 customizations.
