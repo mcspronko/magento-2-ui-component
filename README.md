@@ -12,6 +12,6 @@ This repository contains a UI Component which includes:
 
 As a result of this exercise you will render the "Hello World!" text on the content part of every frontend page in Magento 2. This is because we use "default.xml" layout configuration file and "content" container which usually exists on all pages. 
 
-[![Magento 2 Home Page with UI Component](https://github.com/mcspronko/magento-2-ui-component/tree/master/docs/simple-ui-component-magento-devchannel.png)]
+[![Magento 2 Home Page with UI Component](https://github.com/mcspronko/magento-2-ui-component/blob/master/docs/simple-ui-component-magento-devchannel.png)]
 
 More tutorials at the [Magento DevChannel](https://www.youtube.com/maxpronko).
