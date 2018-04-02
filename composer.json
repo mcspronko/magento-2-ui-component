@@ -1,0 +1,29 @@
+{
+  "name": "mcspronko/magento-2-ui-component",
+  "type": "magento2-module",
+  "description": "Magento 2 UI Component example by Max Pronko",
+  "license": "osl-3.0",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://repo.magento.com/"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Max Pronko",
+      "homepage": "https://www.maxpronko.com"
+    }
+  ],
+  "require": {
+    "magento/framework": "101.0.*"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Pronko\\UiComponent\\": ""
+    }
+  }
+}
