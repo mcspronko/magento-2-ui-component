@@ -1,5 +1,8 @@
 # Magento 2 UI Component Module example
 
+## Overview
+The Magento 2 Module provides an example of a simple UI Component. The component consists of JavaScript Component. There is no separate HTML template component as the template for the UI Component is declared as part of PHTML template.
+
 ## Magento DevChannel Overview
 [Magento DevChannel](https://www.youtube.com/maxpronko) is a YouTube channel created by Max Pronko. It provides the series of videos with the best practices for customizing Magento 2 platform.
 
