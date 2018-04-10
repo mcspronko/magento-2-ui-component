@@ -16,7 +16,7 @@ This is my preferable way of installing a Magento 2 module if I want to perform 
 Add the repository into a composer.json file. From the Magento 2 root directory execute the following commands:
 ```bash
 $ composer config repositories.mcspronko vcs https://github.com/mcspronko/magento-2-ui-component
-$ composer require mcspronko/magento-2-ui-component
+$ composer require mcspronko/magento-2-ui-component:dev-master
 ```
 
 ## About this Repository
