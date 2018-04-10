@@ -1,4 +1,4 @@
-# UI Component example module for Magento 2
+# Magento 2 UI Component Module example
 
 ## Magento DevChannel Overview
 [Magento DevChannel](https://www.youtube.com/maxpronko) is a YouTube channel created by Max Pronko. It provides the series of videos with the best practices for customizing Magento 2 platform.
