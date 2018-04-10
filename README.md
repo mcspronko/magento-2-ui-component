@@ -7,6 +7,11 @@ The Magento 2 Module provides an example of a simple UI Component. The component
 [Magento DevChannel](https://www.youtube.com/maxpronko) is a YouTube channel created by Max Pronko. It provides the series of videos with the best practices for customizing Magento 2 platform.
 
 ## Installation
+
+### Requirements
+1. Magento 2.1 or Magento 2.2
+2. PHP 7.0+
+
 ### Modman Clone
 Use modman to clone the repository into your Magento 2 project. From the Magento 2 root directory execute the following command:
 ```bash
