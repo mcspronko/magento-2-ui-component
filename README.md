@@ -21,6 +21,16 @@ Add the repository into a composer.json file. From the Magento 2 root directory 
 $ composer config repositories.mcspronko vcs https://github.com/mcspronko/magento-2-ui-component
 $ composer require mcspronko/magento-2-ui-component:dev-master
 ```
+### Install the Module
+Enable the Pronko_UiComponent module:
+```bash
+$ bin/magento module:enable Pronko_UiComponent
+```
+
+Run setup:upgrade command:
+```bash
+bin/magento setup:upgrade
+```
 
 ## About this Repository
 This is an example of simple UI Component in Magento 2 (declaration and JavaScript component). The template file is not mandatory for the UI Component creation.
