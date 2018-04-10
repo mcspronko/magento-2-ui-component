@@ -1,7 +1,7 @@
 # Simple UI Component example for Magento 2
 
 ## Magento DevChannel Overview
-[Magento DevChannel](https://www.youtube.com/maxpronko) is an YouTube channel created by Max Pronko. It provides the series of videos with the best practices for customizing Magento 2 platform.
+[Magento DevChannel](https://www.youtube.com/maxpronko) is a YouTube channel created by Max Pronko. It provides the series of videos with the best practices for customizing Magento 2 platform.
 
 ## About this Repository
 This is an example of simple UI Component in Magento 2 (declaration and JavaScript component). The template file is not mandatory for the UI Component creation.
