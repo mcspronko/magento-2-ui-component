@@ -38,7 +38,7 @@ bin/magento setup:upgrade
 ```
 
 ## About this Repository
-This is an example of simple UI Component in Magento 2 (declaration and JavaScript component). The template file is not mandatory for the UI Component creation.
+This is an example of a simple UI Component in Magento 2. It consists of a UI Component declaration and JavaScript Component minimum logic required for a UI Component. The template file is not mandatory for the UI Component creation.
 
 This repository contains a UI Component which includes:
 * Declaration of the UI component with x-magento-init directive
