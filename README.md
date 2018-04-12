@@ -6,6 +6,11 @@ The Magento 2 Module provides an example of a simple UI Component. The component
 ## Magento DevChannel Overview
 [Magento DevChannel](https://www.youtube.com/maxpronko) is a YouTube channel created by Max Pronko. It provides the series of videos with the best practices for customizing Magento 2 platform.
 
+## Video Tutorial
+You can watch the video "Creating Simple UI Component in Magento 2 - Max Pronko (4K)" with the steps on how to create the simple UI Component in Magento 2
+
+[![Creating Simple UI Component in Magento 2 - Max Pronko (4K)](https://img.youtube.com/vi/3S0bA87p_gI/0.jpg)](https://www.youtube.com/watch?v=3S0bA87p_gI)
+
 ## Installation
 
 ### Requirements
@@ -34,7 +39,7 @@ $ bin/magento module:enable Pronko_UiComponent
 
 Run setup:upgrade command:
 ```bash
-bin/magento setup:upgrade
+$ bin/magento setup:upgrade
 ```
 
 ## About this Repository
