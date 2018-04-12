@@ -15,7 +15,7 @@ The Magento 2 Module provides an example of a simple UI Component. The component
 ### Modman
 Use modman to clone the repository into your Magento 2 project. From the Magento 2 root directory execute the following command:
 ```bash
-$ modman clone git@github.com:mcspronko/magento-2-view-model.git
+$ modman clone git@github.com:mcspronko/magento-2-ui-component.git
 ```
 
 This is my preferable way of installing a Magento 2 module if I want to perform code changes.
